@@ -1,16 +1,28 @@
-## Hi there 👋
+🌸 Hey there! I'm Nargis
+Welcome to my GitHub! I'm a passionate Web Developer who loves turning creative ideas into beautiful, functional websites. My current skillset includes:
 
-<!--
-**naargiss/naargiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack
+HTML5, CSS3, JavaScript
 
-Here are some ideas to get you started:
+React.js (still learning — but loving it 💖)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js (learning in progress!)
+
+Git & GitHub for version control
+
+🚀 What I'm Working On
+Right now, I'm building a full-stack Amazon-inspired e-commerce project — learning a ton about UI/UX, backend logic, and how real-world web apps work. It’s a challenge I’m super excited to tackle! 🛒✨
+
+🌟 A Little More About Me
+I'm not just a coder — I'm a curious mind with a love for many things:
+
+ Modern Physics 
+ Art & Digital Design 
+ Philosophy  
+ Video Editing , ive been doing that for more then five years 
+ 
+I believe creativity, logic, and curiosity all work together — and I try to bring that mix into everything I build 
+
+🌐 Let's Connect!
+Whether you're a developer, a dreamer, or both — I'd love to connect with you!
+
